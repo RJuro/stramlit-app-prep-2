@@ -1,4 +1,3 @@
-streamlit
 pydeck
 numpy
 pandas
